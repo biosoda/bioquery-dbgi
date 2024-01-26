@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dbgi_query/precache-manifest.0ec37d60c2fe3942cb3dcd398b330b93.js"
+  "/bioquery-dbgi/precache-manifest.d8d7728f1f77fe51e0bb6e9764e9164b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dbgi_query/index.html", {
+workbox.routing.registerNavigationRoute("/bioquery-dbgi/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
