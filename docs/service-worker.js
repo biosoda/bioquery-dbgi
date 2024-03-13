@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bioquery-dbgi/precache-manifest.c7bc985c45539cde1e9e1bfd4d338a1d.js"
+  "/bioquery-dbgi/precache-manifest.31435a832a31c25182df6c4ed86af5ee.js"
 );
 
 workbox.clientsClaim();
