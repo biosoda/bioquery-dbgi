@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/bioquery-dbgi/static/js/runtime~main.ae9de769.js"
   },
   {
-    "revision": "37c74791de9af2b16721",
-    "url": "/bioquery-dbgi/static/js/main.645b1467.chunk.js"
+    "revision": "afd4679898f150d75aab",
+    "url": "/bioquery-dbgi/static/js/main.c010a642.chunk.js"
   },
   {
     "revision": "a8d9de32b4c8494e7e98",
     "url": "/bioquery-dbgi/static/js/2.c4135753.chunk.js"
   },
   {
-    "revision": "37c74791de9af2b16721",
+    "revision": "afd4679898f150d75aab",
     "url": "/bioquery-dbgi/static/css/main.6876212e.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/bioquery-dbgi/static/css/2.c1d20150.chunk.css"
   },
   {
-    "revision": "bc927ae10b99794017c48ecddc0b2ce5",
+    "revision": "02c851516ea86cfb4a36b26402b91473",
     "url": "/bioquery-dbgi/index.html"
   }
 ];
