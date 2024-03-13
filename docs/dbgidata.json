@@ -123,7 +123,7 @@
                         "queryHeaders": {"Accept": "application/sparql-results+json"}
 
         },
-	{
+		{
             "id": "Qd3",
                         "runcheck": "2023-07-24, 2s, 1results",
                         "rqid": "Qd3",
